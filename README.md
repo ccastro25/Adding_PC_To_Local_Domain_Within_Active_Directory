@@ -2,6 +2,8 @@
 connecting pc to server
 # Preparing the Network on the Server
 
+# Preparing the Network on the Server
+
 ## Configuring the VM Network for Server
 1. Select `Devices > Network`
 2. Under Adapter 1:
@@ -87,3 +89,33 @@ connecting pc to server
 8. In the `Users`, `Profile`, and `Profile` Steps:
     - Leave the default and press `Next`
 9. In the `Name` Step, give it a name
+
+# Adding PC to Local Domain
+
+## Steps
+1. Select `Start > Settings`
+2. Followed by `System`
+3. Scroll down to `About`
+4. Once again scroll down and click `Rename this PC (Advanced)`
+5. Under the `Computer Name` tab, click `Change`
+6. At the Computer Name window, domain Changes
+7. Select `Domain` under `Member of`
+    - Enter `castro.local`
+    - Press OK
+8. At the Windows Security window:
+    - Enter the username and password
+    - Press OK
+9. You should now see a window saying:
+    - `Welcome to the castro.local domain`
+10. Windows will now restart
+
+# Confirming PC is in Local Domain
+
+## Steps
+1. From Windows Server VM:
+    - Within Server Manager Dashboard, select `Active Directory Domains and Trusts`
+    - Select `castro.local > Computers`
+    - The PC should be listed
+2. From Windows PC VM:
+    - Go to `Start > Settings > System > About`
+    - The Domain name will be in the Full device name
