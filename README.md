@@ -38,7 +38,12 @@ https://github.com/user-attachments/assets/96b1fd1c-d504-40fd-b292-1352d0e09a2c
 1. Go to search
 2. Type `cmd` and press Enter
 3. Type `ipconfig` in the command prompt to see what you configured
-https://github.com/user-attachments/assets/85196b63-d835-4a2e-abbf-3d740170309f
+
+
+
+https://github.com/user-attachments/assets/d0fe3d83-7867-42db-b2a3-f7e0826554c6
+
+
 # Preparing Network for PC
 
 ## Configuring the VM Network for Server
