@@ -1,12 +1,16 @@
 # Adding_PC_To_Local_Domain_Within_Active_Directory
 connecting pc to server
-# Preparing the Network on the Server
+
 
 ## Configuring the VM Network for Server
 1. Select `Devices > Network`
 2. Under Adapter 1:
     - Select `Bridge Adapter` at the `Attached to:` option
 3. Click OK
+
+
+https://github.com/user-attachments/assets/96b1fd1c-d504-40fd-b292-1352d0e09a2c
+
 
 ## Configuring IP for the Server
 1. Go to `Start > Windows System > Control Panel`
