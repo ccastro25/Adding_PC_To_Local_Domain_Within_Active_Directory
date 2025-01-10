@@ -31,14 +31,14 @@ https://github.com/user-attachments/assets/96b1fd1c-d504-40fd-b292-1352d0e09a2c
 9. Press OK in the Ethernet Properties window
 
 
-https://github.com/user-attachments/assets/85196b63-d835-4a2e-abbf-3d740170309f
+
 
 
 ## Check IP through Command Prompt
 1. Go to search
 2. Type `cmd` and press Enter
 3. Type `ipconfig` in the command prompt to see what you configured
-
+https://github.com/user-attachments/assets/85196b63-d835-4a2e-abbf-3d740170309f
 # Preparing Network for PC
 
 ## Configuring the VM Network for Server
