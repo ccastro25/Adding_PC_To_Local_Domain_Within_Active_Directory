@@ -1,0 +1,2 @@
+# Adding_PC_To_Local_Domain_Within_Active_Directory
+connecting pc to server
