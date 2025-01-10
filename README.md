@@ -2,8 +2,6 @@
 connecting pc to server
 # Preparing the Network on the Server
 
-# Preparing the Network on the Server
-
 ## Configuring the VM Network for Server
 1. Select `Devices > Network`
 2. Under Adapter 1:
@@ -66,7 +64,6 @@ connecting pc to server
 
 # Creating New Rule for Firewall
 
-## Steps
 1. Go to `Start > Windows System > Control Panel > System and Security`
 2. Select `Windows Defender Firewall` on the left
 3. Select `Advanced settings` on the left
@@ -92,7 +89,6 @@ connecting pc to server
 
 # Adding PC to Local Domain
 
-## Steps
 1. Select `Start > Settings`
 2. Followed by `System`
 3. Scroll down to `About`
@@ -111,7 +107,6 @@ connecting pc to server
 
 # Confirming PC is in Local Domain
 
-## Steps
 1. From Windows Server VM:
     - Within Server Manager Dashboard, select `Active Directory Domains and Trusts`
     - Select `castro.local > Computers`
@@ -119,3 +114,4 @@ connecting pc to server
 2. From Windows PC VM:
     - Go to `Start > Settings > System > About`
     - The Domain name will be in the Full device name
+
