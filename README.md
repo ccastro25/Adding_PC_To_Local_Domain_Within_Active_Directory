@@ -52,6 +52,10 @@ https://github.com/user-attachments/assets/d0fe3d83-7867-42db-b2a3-f7e0826554c6
     - Select `Bridge Adapter` at the `Attached to:` option
 3. Click OK
 
+
+https://github.com/user-attachments/assets/204472de-b9af-4fa0-98cc-3f41b0014469
+
+
 ## Configuring IP for the PC
 1. Go to `Start > Windows System > Control Panel`
 2. Navigate to `Network and Internet > Network and Sharing Center`
