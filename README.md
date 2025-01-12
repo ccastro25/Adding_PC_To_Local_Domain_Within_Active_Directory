@@ -139,6 +139,10 @@ https://github.com/user-attachments/assets/7af1136b-0f31-4cba-8639-eeadecaade83
     - `Welcome to the castro.local domain`
 10. Windows will now restart
 
+
+https://github.com/user-attachments/assets/62765199-5358-4453-b3e1-d1899a89b6d1
+
+
 # Confirming PC is in Local Domain
 
 1. From Windows Server VM:
