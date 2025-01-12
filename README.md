@@ -46,14 +46,18 @@ https://github.com/user-attachments/assets/d0fe3d83-7867-42db-b2a3-f7e0826554c6
 
 # Preparing Network for PC
 
-## Configuring the VM Network for Server
+## Configuring the VM Network for PC
 1. Select `Devices > Network`
 2. Under Adapter 1:
     - Select `Bridge Adapter` at the `Attached to:` option
 3. Click OK
 
 
-https://github.com/user-attachments/assets/204472de-b9af-4fa0-98cc-3f41b0014469
+
+https://github.com/user-attachments/assets/87f07904-2c28-4c9a-be90-b8797e84530a
+
+
+
 
 
 ## Configuring IP for the PC
