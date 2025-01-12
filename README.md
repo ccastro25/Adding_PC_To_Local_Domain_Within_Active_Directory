@@ -153,3 +153,11 @@ https://github.com/user-attachments/assets/62765199-5358-4453-b3e1-d1899a89b6d1
     - Go to `Start > Settings > System > About`
     - The Domain name will be in the Full device name
 
+
+
+
+
+https://github.com/user-attachments/assets/bae8d283-6c60-48e7-a784-9805d5c5121b
+
+
+
