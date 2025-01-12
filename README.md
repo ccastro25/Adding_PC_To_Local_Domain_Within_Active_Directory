@@ -78,6 +78,10 @@ https://github.com/user-attachments/assets/87f07904-2c28-4c9a-be90-b8797e84530a
 8. Press OK in the Protocol Version window
 9. Press OK in the Ethernet Properties window
 
+
+https://github.com/user-attachments/assets/12c09cfa-51bd-4d3c-8b09-160bca7ba61b
+
+
 ## Check IP through Command Prompt
 1. Go to search
 2. Type `cmd` and press Enter
