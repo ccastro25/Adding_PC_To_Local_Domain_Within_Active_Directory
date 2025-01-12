@@ -115,6 +115,7 @@ https://github.com/user-attachments/assets/101c281f-78e9-4dc0-9261-999c73f9013e
 8. In the `Users`, `Profile`, and `Profile` Steps:
     - Leave the default and press `Next`
 9. In the `Name` Step, give it a name
+![creating new rule for firewall](https://github.com/user-attachments/assets/515e2a00-98c0-49a4-93a6-557f4e131fea)
 
 # Adding PC to Local Domain
 
