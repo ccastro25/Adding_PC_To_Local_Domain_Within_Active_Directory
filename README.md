@@ -146,7 +146,7 @@ https://github.com/user-attachments/assets/62765199-5358-4453-b3e1-d1899a89b6d1
 # Confirming PC is in Local Domain
 
 1. From Windows Server VM:
-    - Within Server Manager Dashboard, select `Active Directory Domains and Trusts`
+    - Within Server Manager Dashboard, select ` Active Driectory Users and Computers`
     - Select `castro.local > Computers`
     - The PC should be listed
 2. From Windows PC VM:
