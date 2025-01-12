@@ -117,6 +117,10 @@ https://github.com/user-attachments/assets/101c281f-78e9-4dc0-9261-999c73f9013e
 9. In the `Name` Step, give it a name
 
 
+https://github.com/user-attachments/assets/7af1136b-0f31-4cba-8639-eeadecaade83
+
+
+
 # Adding PC to Local Domain
 
 1. Select `Start > Settings`
