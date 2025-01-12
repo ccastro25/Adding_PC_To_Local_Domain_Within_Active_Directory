@@ -79,6 +79,10 @@ https://github.com/user-attachments/assets/204472de-b9af-4fa0-98cc-3f41b0014469
 2. Type `cmd` and press Enter
 3. Type `ipconfig` in the command prompt to see what you configured
 
+
+https://github.com/user-attachments/assets/101c281f-78e9-4dc0-9261-999c73f9013e
+
+
 # Creating New Rule for Firewall
 
 1. Go to `Start > Windows System > Control Panel > System and Security`
